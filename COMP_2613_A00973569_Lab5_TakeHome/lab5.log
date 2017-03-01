@@ -1,0 +1,489 @@
+2016-05-23 20:01:01,389 main INFO  lab5.Lab5 (Lab5.java:98) - Starting Lab5
+2016-05-23 20:01:01,391 main INFO  lab5.Lab5 (Lab5.java:100) - 2016-05-24T03:01:01.391Z
+2016-05-23 20:01:01,438 main INFO  io.PlayerReader (PlayerReader.java:57) - Starting PlayerReader.read
+2016-05-23 20:01:01,441 main INFO  io.PlayerReport (PlayerReport.java:52) - Starting PlayerReport.write
+2016-05-23 20:01:01,450 main INFO  lab5.Lab5 (Lab5.java:103) - Players data successfully out put to players_report.txt
+2016-05-23 20:01:01,450 main INFO  lab5.Lab5 (Lab5.java:105) - 2016-05-24T03:01:01.450Z
+2016-05-23 20:01:01,451 main INFO  lab5.Lab5 (Lab5.java:106) - Duration: 59 ms
+2016-05-23 20:01:01,451 main INFO  lab5.Lab5 (Lab5.java:107) - End Lab5. exit_code 0
+2016-05-23 20:09:18,199 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-23 20:09:18,201 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T03:09:18.200Z
+2016-05-23 20:09:18,248 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-23 20:09:18,251 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-23 20:09:18,260 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-23 20:09:18,260 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T03:09:18.260Z
+2016-05-23 20:09:18,260 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 60 ms
+2016-05-23 20:09:18,260 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-23 20:09:27,623 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-23 20:09:27,625 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T03:09:27.624Z
+2016-05-23 20:09:27,670 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-23 20:09:27,673 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-23 20:09:27,681 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-23 20:09:27,681 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T03:09:27.681Z
+2016-05-23 20:09:27,682 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 57 ms
+2016-05-23 20:09:27,682 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-23 20:10:33,607 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-23 20:10:33,610 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T03:10:33.609Z
+2016-05-23 20:10:33,659 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-23 20:10:33,662 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-23 20:10:33,671 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-23 20:10:33,671 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T03:10:33.671Z
+2016-05-23 20:10:33,672 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 62 ms
+2016-05-23 20:10:33,672 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:12:01,916 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:12:01,918 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:12:01.917Z
+2016-05-24 14:12:01,964 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:12:01,964 main ERROR io.PlayerReader (PlayerReader.java:93) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 14:12:42,249 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:12:42,252 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:12:42.251Z
+2016-05-24 14:12:42,301 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:12:42,307 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:12:42,334 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:12:42,334 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:12:42.334Z
+2016-05-24 14:12:42,334 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 83 ms
+2016-05-24 14:12:42,335 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:13:09,539 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:13:09,541 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:13:09.541Z
+2016-05-24 14:13:09,588 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:13:09,591 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:13:09,600 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:13:09,600 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:13:09.600Z
+2016-05-24 14:13:09,601 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 59 ms
+2016-05-24 14:13:09,601 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:13:32,200 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:13:32,202 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:13:32.201Z
+2016-05-24 14:13:32,248 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:13:32,251 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:13:32,259 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:13:32,259 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:13:32.259Z
+2016-05-24 14:13:32,259 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 58 ms
+2016-05-24 14:13:32,259 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:14:20,747 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:14:20,749 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:14:20.749Z
+2016-05-24 14:14:20,795 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:14:20,798 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:14:20,806 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:14:20,806 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:14:20.806Z
+2016-05-24 14:14:20,806 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 57 ms
+2016-05-24 14:14:20,807 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:14:30,493 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:14:30,495 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:14:30.494Z
+2016-05-24 14:14:30,542 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:14:30,545 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:14:30,553 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:14:30,553 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:14:30.553Z
+2016-05-24 14:14:30,553 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 59 ms
+2016-05-24 14:14:30,553 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:22:03,982 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:22:03,984 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:22:03.984Z
+2016-05-24 14:22:04,030 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:22:04,033 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:22:04,041 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:22:04,041 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:22:04.041Z
+2016-05-24 14:22:04,041 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 57 ms
+2016-05-24 14:22:04,042 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:28:05,080 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:28:05,082 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:28:05.081Z
+2016-05-24 14:28:05,128 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:28:05,131 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:28:05,139 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:28:05,139 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:28:05.139Z
+2016-05-24 14:28:05,139 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 58 ms
+2016-05-24 14:28:05,140 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 14:33:35,204 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 14:33:35,206 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T21:33:35.206Z
+2016-05-24 14:33:35,252 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 14:33:35,255 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 14:33:35,263 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 14:33:35,263 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T21:33:35.263Z
+2016-05-24 14:33:35,263 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 57 ms
+2016-05-24 14:33:35,263 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 16:51:39,663 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 16:51:39,665 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T23:51:39.664Z
+2016-05-24 16:51:39,713 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 16:51:39,722 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 16:51:39,731 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 16:51:39,732 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T23:51:39.732Z
+2016-05-24 16:51:39,732 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 68 ms
+2016-05-24 16:51:39,732 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 16:57:51,262 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 16:57:51,264 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T23:57:51.264Z
+2016-05-24 16:57:51,311 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 16:57:51,315 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 16:57:51,325 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 16:57:51,326 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T23:57:51.325Z
+2016-05-24 16:57:51,326 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 61 ms
+2016-05-24 16:57:51,326 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 16:59:49,668 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 16:59:49,670 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-24T23:59:49.670Z
+2016-05-24 16:59:49,718 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 16:59:49,721 main ERROR lab5.Lab5 (Lab5.java:71) - Expected 6 but got 5: [5, Mark, Chan, mchan@oneminutemail.com, CastleRock]
+2016-05-24 16:59:49,721 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 16:59:49,721 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-24T23:59:49.721Z
+2016-05-24 16:59:49,721 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 51 ms
+2016-05-24 16:59:49,721 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 17:00:36,772 main INFO  lab5.Lab5 (Lab5.java:120) - Starting Lab5
+2016-05-24 17:00:36,774 main INFO  lab5.Lab5 (Lab5.java:122) - 2016-05-25T00:00:36.774Z
+2016-05-24 17:00:36,820 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:00:36,824 main ERROR lab5.Lab5 (Lab5.java:71) - Expected 6 but got 5: [5, Mark, Chan, mchan@oneminutemail.com, CastleRock]
+2016-05-24 17:00:36,824 main INFO  lab5.Lab5 (Lab5.java:125) - Players data successfully out put to players_report.txt
+2016-05-24 17:00:36,824 main INFO  lab5.Lab5 (Lab5.java:127) - 2016-05-25T00:00:36.824Z
+2016-05-24 17:00:36,824 main INFO  lab5.Lab5 (Lab5.java:128) - Duration: 50 ms
+2016-05-24 17:00:36,824 main INFO  lab5.Lab5 (Lab5.java:129) - End Lab5. exit_code 0
+2016-05-24 17:01:36,867 main INFO  lab5.Lab5 (Lab5.java:121) - Starting Lab5
+2016-05-24 17:01:36,869 main INFO  lab5.Lab5 (Lab5.java:123) - 2016-05-25T00:01:36.869Z
+2016-05-24 17:01:36,918 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:01:36,921 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 17:01:36,929 main INFO  lab5.Lab5 (Lab5.java:70) - Players data successfully out put to players_report.txt
+2016-05-24 17:01:36,929 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T00:01:36.929Z
+2016-05-24 17:01:36,929 main INFO  lab5.Lab5 (Lab5.java:129) - Duration: 60 ms
+2016-05-24 17:01:36,929 main INFO  lab5.Lab5 (Lab5.java:130) - End Lab5. exit_code 0
+2016-05-24 17:01:59,462 main INFO  lab5.Lab5 (Lab5.java:121) - Starting Lab5
+2016-05-24 17:01:59,464 main INFO  lab5.Lab5 (Lab5.java:123) - 2016-05-25T00:01:59.464Z
+2016-05-24 17:01:59,510 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:01:59,513 main ERROR lab5.Lab5 (Lab5.java:72) - Expected 6 but got 5: [5, Mark, Chan, mchan@oneminutemail.com, CastleRock]
+2016-05-24 17:01:59,513 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T00:01:59.513Z
+2016-05-24 17:01:59,514 main INFO  lab5.Lab5 (Lab5.java:129) - Duration: 49 ms
+2016-05-24 17:01:59,514 main INFO  lab5.Lab5 (Lab5.java:130) - End Lab5. exit_code 0
+2016-05-24 17:02:26,227 main INFO  lab5.Lab5 (Lab5.java:121) - Starting Lab5
+2016-05-24 17:02:26,229 main INFO  lab5.Lab5 (Lab5.java:123) - 2016-05-25T00:02:26.228Z
+2016-05-24 17:02:26,275 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:02:26,278 main ERROR lab5.Lab5 (Lab5.java:72) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:02:26,278 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T00:02:26.278Z
+2016-05-24 17:02:26,278 main INFO  lab5.Lab5 (Lab5.java:129) - Duration: 50 ms
+2016-05-24 17:02:26,278 main INFO  lab5.Lab5 (Lab5.java:130) - End Lab5. exit_code 0
+2016-05-24 17:05:05,399 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:05:05,401 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:05:05.401Z
+2016-05-24 17:05:05,449 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:05:05,452 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:05:05,452 main ERROR lab5.Lab5 (Lab5.java:74) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:05:33,283 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:05:33,285 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:05:33.284Z
+2016-05-24 17:05:33,330 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:05:33,333 main ERROR lab5.Lab5 (Lab5.java:73) - Expected 6 but got 5: [5, Mark, Chan, mchan@oneminutemail.com, CastleRock]
+2016-05-24 17:05:33,334 main ERROR lab5.Lab5 (Lab5.java:74) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:05:48,896 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:05:48,898 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:05:48.897Z
+2016-05-24 17:05:48,944 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:05:48,948 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 17:05:48,956 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:05:48,956 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:05:48.956Z
+2016-05-24 17:05:48,957 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 59 ms
+2016-05-24 17:05:48,957 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:06:25,590 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:06:25,592 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:06:25.592Z
+2016-05-24 17:06:25,638 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:06:25,642 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 17:06:25,650 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:06:25,650 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:06:25.650Z
+2016-05-24 17:06:25,651 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 58 ms
+2016-05-24 17:06:25,651 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:09:23,158 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:09:23,160 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:09:23.160Z
+2016-05-24 17:09:23,206 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:09:23,208 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 17:09:23,217 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:09:23,217 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:09:23.217Z
+2016-05-24 17:09:23,218 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 57 ms
+2016-05-24 17:09:23,218 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:17:08,441 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:17:08,443 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:17:08.442Z
+2016-05-24 17:17:08,489 main INFO  io.PlayerReader (PlayerReader.java:59) - Starting PlayerReader.read
+2016-05-24 17:17:08,492 main INFO  io.PlayerReport (PlayerReport.java:54) - Starting PlayerReport.write
+2016-05-24 17:17:08,500 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:17:08,500 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:17:08.500Z
+2016-05-24 17:17:08,500 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 58 ms
+2016-05-24 17:17:08,501 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:32:31,346 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:32:31,348 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:32:31.348Z
+2016-05-24 17:32:31,398 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:32:31,403 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:32:31,413 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:32:31,414 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:32:31.414Z
+2016-05-24 17:32:31,415 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 66 ms
+2016-05-24 17:32:31,415 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:33:00,993 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:33:00,995 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:33:00.995Z
+2016-05-24 17:33:01,043 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:33:01,046 main ERROR lab5.Lab5 (Lab5.java:73) - Expected 6 but got 5: [5, Mark, Chan, mchan@oneminutemail.com, CastleRock]
+2016-05-24 17:33:01,046 main ERROR lab5.Lab5 (Lab5.java:74) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:33:50,942 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:33:50,944 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:33:50.943Z
+2016-05-24 17:33:50,989 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:33:50,996 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:33:51,004 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:33:51,004 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:33:51.004Z
+2016-05-24 17:33:51,005 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 61 ms
+2016-05-24 17:33:51,005 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:34:47,831 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:34:47,833 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:34:47.833Z
+2016-05-24 17:34:47,880 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:34:47,883 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:34:47,883 main ERROR lab5.Lab5 (Lab5.java:74) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:46:45,061 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:46:45,063 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:46:45.063Z
+2016-05-24 17:46:45,112 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:46:45,116 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:46:45,125 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:46:45,125 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:46:45.125Z
+2016-05-24 17:46:45,125 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 62 ms
+2016-05-24 17:46:45,125 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:47:20,607 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:47:20,609 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:47:20.609Z
+2016-05-24 17:47:20,658 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:47:20,661 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:47:20,661 main ERROR lab5.Lab5 (Lab5.java:74) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:48:51,340 main INFO  lab5.Lab5 (Lab5.java:123) - Starting Lab5
+2016-05-24 17:48:51,342 main INFO  lab5.Lab5 (Lab5.java:125) - 2016-05-25T00:48:51.342Z
+2016-05-24 17:48:51,390 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:48:51,393 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:49:40,189 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:49:40,191 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:49:40.190Z
+2016-05-24 17:49:40,238 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:49:40,239 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:49:40,239 main ERROR lab5.Lab5 (Lab5.java:74) - System will now exit: exit_code -1
+2016-05-24 17:50:03,658 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:50:03,660 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:50:03.660Z
+2016-05-24 17:50:03,708 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:50:03,709 main ERROR io.PlayerReader (PlayerReader.java:101) - player.txt does not exist system will now exit: exit_code -1
+2016-05-24 17:50:17,984 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:50:17,986 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:50:17.986Z
+2016-05-24 17:50:18,033 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:50:18,035 main ERROR lab5.Lab5 (Lab5.java:73) - Invalid email: mchanoneminutemail.com
+2016-05-24 17:50:18,035 main ERROR lab5.Lab5 (Lab5.java:74) - System will now exit: exit_code -1
+2016-05-24 17:50:32,399 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:50:32,401 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:50:32.401Z
+2016-05-24 17:50:32,448 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:50:32,452 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:50:32,460 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully out put to players_report.txt
+2016-05-24 17:50:32,461 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:50:32.461Z
+2016-05-24 17:50:32,461 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 60 ms
+2016-05-24 17:50:32,461 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:51:09,169 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:51:09,171 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:51:09.171Z
+2016-05-24 17:51:09,217 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:51:09,222 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:51:09,230 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully output to players_report.txt
+2016-05-24 17:51:09,230 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:51:09.230Z
+2016-05-24 17:51:09,231 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 59 ms
+2016-05-24 17:51:09,231 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:52:45,491 main INFO  lab5.Lab5 (Lab5.java:124) - Starting Lab5
+2016-05-24 17:52:45,493 main INFO  lab5.Lab5 (Lab5.java:126) - 2016-05-25T00:52:45.493Z
+2016-05-24 17:52:45,539 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:52:45,542 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:52:45,550 main INFO  lab5.Lab5 (Lab5.java:71) - Players data successfully output to players_report.txt
+2016-05-24 17:52:45,550 main INFO  lab5.Lab5 (Lab5.java:131) - 2016-05-25T00:52:45.550Z
+2016-05-24 17:52:45,550 main INFO  lab5.Lab5 (Lab5.java:132) - Duration: 57 ms
+2016-05-24 17:52:45,550 main INFO  lab5.Lab5 (Lab5.java:133) - End Lab5. exit_code 0
+2016-05-24 17:55:14,596 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 17:55:14,645 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T17:55:14.605Z
+2016-05-24 17:55:14,650 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:55:14,653 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:55:14,661 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 17:55:14,661 main INFO  lab5.Lab5 (Lab5.java:134) - 2016-05-24T17:55:14.661Z
+2016-05-24 17:55:14,662 main INFO  lab5.Lab5 (Lab5.java:135) - Duration: 56 ms
+2016-05-24 17:55:14,662 main INFO  lab5.Lab5 (Lab5.java:136) - End Lab5. exit_code 0
+2016-05-24 17:58:40,175 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 17:58:40,224 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T17:58:40.183Z
+2016-05-24 17:58:40,230 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:58:40,233 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:58:40,241 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 17:58:40,241 main INFO  lab5.Lab5 (Lab5.java:134) - 2016-05-24T17:58:40.241Z
+2016-05-24 17:58:40,241 main INFO  lab5.Lab5 (Lab5.java:135) - Duration: 58 ms
+2016-05-24 17:58:40,242 main INFO  lab5.Lab5 (Lab5.java:136) - End Lab5. exit_code 0
+2016-05-24 17:59:01,110 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 17:59:01,161 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T17:59:01.119Z
+2016-05-24 17:59:01,167 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:59:01,171 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:59:01,180 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 17:59:01,180 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T17:59:01.180Z
+2016-05-24 17:59:01,181 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 61 ms
+2016-05-24 17:59:01,181 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 17:59:25,999 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 17:59:26,047 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T17:59:26.007Z
+2016-05-24 17:59:26,052 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 17:59:26,055 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 17:59:26,063 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 17:59:26,063 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T17:59:26.063Z
+2016-05-24 17:59:26,064 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 56 ms
+2016-05-24 17:59:26,064 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 18:06:16,566 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 18:06:16,614 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T18:06:16.574Z
+2016-05-24 18:06:16,620 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 18:06:16,623 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 18:06:16,631 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 18:06:16,631 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T18:06:16.631Z
+2016-05-24 18:06:16,631 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-24 18:06:16,631 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 18:07:03,910 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 18:07:03,958 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T18:07:03.918Z
+2016-05-24 18:07:03,963 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 18:07:03,967 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 18:07:03,974 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 18:07:03,975 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T18:07:03.975Z
+2016-05-24 18:07:03,975 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-24 18:07:03,975 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 18:07:37,685 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 18:07:37,733 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T18:07:37.693Z
+2016-05-24 18:07:37,739 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 18:07:37,742 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 18:07:37,749 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 18:07:37,750 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T18:07:37.750Z
+2016-05-24 18:07:37,750 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-24 18:07:37,750 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 18:16:44,509 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 18:16:44,558 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T18:16:44.517Z
+2016-05-24 18:16:44,564 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 18:16:44,567 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 18:16:44,576 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 18:16:44,576 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T18:16:44.576Z
+2016-05-24 18:16:44,576 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 59 ms
+2016-05-24 18:16:44,576 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 19:12:25,066 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 19:12:25,117 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T19:12:25.074Z
+2016-05-24 19:12:25,122 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 19:12:25,125 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 19:12:25,133 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 19:12:25,133 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T19:12:25.133Z
+2016-05-24 19:12:25,134 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 59 ms
+2016-05-24 19:12:25,134 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 19:12:39,917 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 19:12:39,965 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T19:12:39.925Z
+2016-05-24 19:12:39,971 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 19:12:39,974 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 19:12:39,981 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 19:12:39,982 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T19:12:39.982Z
+2016-05-24 19:12:39,982 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-24 19:12:39,982 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 19:15:18,338 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 19:15:18,386 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T19:15:18.346Z
+2016-05-24 19:15:18,392 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 19:15:18,395 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 19:15:18,402 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 19:15:18,403 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T19:15:18.403Z
+2016-05-24 19:15:18,403 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-24 19:15:18,403 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-24 23:55:43.703 [main] INFO  a00973569.lab5.Lab5 - Starting Lab5
+2016-05-24 23:55:43.752 [main] INFO  a00973569.lab5.Lab5 - 2016-05-24T23:55:43.712Z
+2016-05-24 23:55:43.758 [main] INFO  a00973569.lab5.io.PlayerReader - Starting PlayerReader.read
+2016-05-24 23:55:43.761 [main] INFO  a00973569.lab5.io.PlayerReport - Starting PlayerReport.write
+2016-05-24 23:55:43.769 [main] INFO  a00973569.lab5.Lab5 - Players data successfully output to players_report.txt
+2016-05-24 23:55:43.769 [main] INFO  a00973569.lab5.Lab5 - 2016-05-24T23:55:43.769Z
+2016-05-24 23:55:43.769 [main] INFO  a00973569.lab5.Lab5 - Duration: 57 ms
+2016-05-24 23:55:43.769 [main] INFO  a00973569.lab5.Lab5 - End Lab5. exit_code 0
+2016-05-24 23:57:29,357 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-24 23:57:29,405 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-24T23:57:29.365Z
+2016-05-24 23:57:29,410 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-24 23:57:29,413 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-24 23:57:29,421 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-24 23:57:29,421 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-24T23:57:29.421Z
+2016-05-24 23:57:29,422 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 56 ms
+2016-05-24 23:57:29,422 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:27:12,600 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:27:12,677 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:27:12.617Z
+2016-05-25 14:27:12,687 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:27:12,693 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:27:12,702 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:27:12,703 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:27:12.703Z
+2016-05-25 14:27:12,703 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 86 ms
+2016-05-25 14:27:12,703 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:27:58,244 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:27:58,292 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:27:58.252Z
+2016-05-25 14:27:58,297 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:27:58,301 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:27:58,309 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:27:58,310 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:27:58.310Z
+2016-05-25 14:27:58,310 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 58 ms
+2016-05-25 14:27:58,310 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:34:45,709 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:34:45,757 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:34:45.717Z
+2016-05-25 14:34:45,762 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:34:45,765 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:34:45,774 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:34:45,774 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:34:45.774Z
+2016-05-25 14:34:45,775 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-25 14:34:45,775 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:35:41,223 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:35:41,271 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:35:41.231Z
+2016-05-25 14:35:41,276 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:35:41,279 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:35:41,287 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:35:41,287 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:35:41.287Z
+2016-05-25 14:35:41,288 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 56 ms
+2016-05-25 14:35:41,288 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:41:25,632 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:41:25,680 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:41:25.640Z
+2016-05-25 14:41:25,686 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:41:25,689 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:41:25,696 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:41:25,697 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:41:25.697Z
+2016-05-25 14:41:25,697 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 57 ms
+2016-05-25 14:41:25,697 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 14:45:33,662 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:45:33,712 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:45:33.670Z
+2016-05-25 14:45:33,719 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:45:33,720 main ERROR io.PlayerReader (PlayerReader.java:101) - player.txt does not exist system will now exit: exit_code -1
+2016-05-25 14:45:56,232 main INFO  lab5.Lab5 (Lab5.java:126) - Starting Lab5
+2016-05-25 14:45:56,280 main INFO  lab5.Lab5 (Lab5.java:128) - 2016-05-25T14:45:56.240Z
+2016-05-25 14:45:56,287 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 14:45:56,290 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 14:45:56,298 main INFO  lab5.Lab5 (Lab5.java:73) - Players data successfully output to players_report.txt
+2016-05-25 14:45:56,298 main INFO  lab5.Lab5 (Lab5.java:133) - 2016-05-25T14:45:56.298Z
+2016-05-25 14:45:56,298 main INFO  lab5.Lab5 (Lab5.java:134) - Duration: 58 ms
+2016-05-25 14:45:56,298 main INFO  lab5.Lab5 (Lab5.java:135) - End Lab5. exit_code 0
+2016-05-25 21:46:49,210 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 21:46:49,260 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T21:46:49.219Z
+2016-05-25 21:46:49,265 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 21:46:49,269 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 21:46:49,278 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 21:46:49,278 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T21:46:49.278Z
+2016-05-25 21:46:49,278 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 59 ms
+2016-05-25 21:46:49,278 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 21:47:49,285 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 21:47:49,334 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T21:47:49.294Z
+2016-05-25 21:47:49,339 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 21:47:49,342 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 21:47:49,350 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 21:47:49,350 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T21:47:49.350Z
+2016-05-25 21:47:49,351 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 56 ms
+2016-05-25 21:47:49,351 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 21:50:16,719 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 21:50:16,773 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T21:50:16.727Z
+2016-05-25 21:50:16,779 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 21:50:16,782 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 21:50:16,789 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 21:50:16,789 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T21:50:16.789Z
+2016-05-25 21:50:16,790 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 62 ms
+2016-05-25 21:50:16,790 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 21:51:19,441 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 21:51:19,491 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T21:51:19.449Z
+2016-05-25 21:51:19,497 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 21:51:19,500 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 21:51:19,508 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 21:51:19,508 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T21:51:19.508Z
+2016-05-25 21:51:19,509 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 59 ms
+2016-05-25 21:51:19,509 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 22:11:54,061 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 22:11:54,110 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T22:11:54.069Z
+2016-05-25 22:11:54,115 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 22:11:54,118 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 22:11:54,126 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 22:11:54,126 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T22:11:54.126Z
+2016-05-25 22:11:54,126 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 57 ms
+2016-05-25 22:11:54,126 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 22:12:20,991 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 22:12:21,040 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T22:12:20.999Z
+2016-05-25 22:12:21,045 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 22:12:21,048 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 22:12:21,056 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 22:12:21,056 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T22:12:21.056Z
+2016-05-25 22:12:21,057 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 57 ms
+2016-05-25 22:12:21,057 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0
+2016-05-25 22:12:50,214 main INFO  lab5.Lab5 (Lab5.java:61) - Starting Lab5
+2016-05-25 22:12:50,265 main INFO  lab5.Lab5 (Lab5.java:63) - 2016-05-25T22:12:50.222Z
+2016-05-25 22:12:50,270 main INFO  io.PlayerReader (PlayerReader.java:65) - Starting PlayerReader.read
+2016-05-25 22:12:50,273 main INFO  io.PlayerReport (PlayerReport.java:55) - Starting PlayerReport.write
+2016-05-25 22:12:50,281 main INFO  lab5.Lab5 (Lab5.java:96) - Players data successfully output to players_report.txt
+2016-05-25 22:12:50,281 main INFO  lab5.Lab5 (Lab5.java:68) - 2016-05-25T22:12:50.281Z
+2016-05-25 22:12:50,282 main INFO  lab5.Lab5 (Lab5.java:69) - Duration: 59 ms
+2016-05-25 22:12:50,282 main INFO  lab5.Lab5 (Lab5.java:70) - End Lab5. exit_code 0

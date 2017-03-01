@@ -1,0 +1,9 @@
+Players Report
+-------------------------------------------------------------------------------------------------------
+ # . ID     First name   Last name    Email                    Gamer tag                Birthdate      
+-------------------------------------------------------------------------------------------------------
+  1. 000003 Conrad       Washington   fredfish@gamer.net       Crayonbreath             Mon 12 Jun 1972
+  2. 000001 Fred         Fish         fredfish@gamer.net       Ithroeann                Tue 22 Feb 1977
+  3. 000002 Laurie       Nash         laurieeenash@gmail.com   Mazzzap                  Wed 28 Jul 1982
+  4. 000005 Mark         Chan         mchan@oneminutemail.com  CastleRock               Wed 01 Mar 1995
+  5. 000004 Jeanette     Price        priceizrite@hotmail.com  Quinesia                 Mon 03 Sep 2001

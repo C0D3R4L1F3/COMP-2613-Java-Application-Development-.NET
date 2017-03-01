@@ -1,0 +1,8 @@
+Player ID Full name           Email                         Age       Total games played  Total Wins          
+------------------------------------------------------------------------------------------------------
+        1 Fred Fish           fredfish@gamer.net            39                         7           5                   
+        2 Laurie Nash         laurieeenash@gmail.com        34                         7           4                   
+        3 Conrad Washington   fredfish@gamer.net            44                         1           1                   
+        4 Jeanette Price      priceizrite@hotmail.com       15                         6           2                   
+        5 Mark Chan           mchan@oneminutemail.com       21                         4           2                   
+------------------------------------------------------------------------------------------------------
